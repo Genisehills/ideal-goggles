@@ -1,0 +1,59 @@
+{
+  "paths": [
+    {
+      "_path": "Lib/site-packages/__pycache__/typing_extensions.cpython-312.pyc",
+      "path_type": "hardlink",
+      "sha256": "65de82747a53723a0d4d9a15c11f4dd9d0fc7934d3d5fb99741498aa7d6456ec",
+      "size_in_bytes": 128021
+    },
+    {
+      "_path": "Lib/site-packages/typing_extensions-4.11.0.dist-info/INSTALLER",
+      "path_type": "hardlink",
+      "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+      "size_in_bytes": 5
+    },
+    {
+      "_path": "Lib/site-packages/typing_extensions-4.11.0.dist-info/LICENSE",
+      "path_type": "hardlink",
+      "sha256": "3b2f81fe21d181c499c59a256c8e1968455d6689d269aa85373bfb6af41da3bf",
+      "size_in_bytes": 13936
+    },
+    {
+      "_path": "Lib/site-packages/typing_extensions-4.11.0.dist-info/METADATA",
+      "path_type": "hardlink",
+      "sha256": "ae11971fe8aec142d73590c0b635dc8f05368dcc68b4c4e4162520d0ea985f32",
+      "size_in_bytes": 2967
+    },
+    {
+      "_path": "Lib/site-packages/typing_extensions-4.11.0.dist-info/RECORD",
+      "path_type": "hardlink",
+      "sha256": "462416bb7e012a70a142b722444b8cb22146c8203069295a37b49e48578452ba",
+      "size_in_bytes": 776
+    },
+    {
+      "_path": "Lib/site-packages/typing_extensions-4.11.0.dist-info/REQUESTED",
+      "path_type": "hardlink",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "size_in_bytes": 0
+    },
+    {
+      "_path": "Lib/site-packages/typing_extensions-4.11.0.dist-info/WHEEL",
+      "path_type": "hardlink",
+      "sha256": "1196c6921ec87b83e865f450f08d19b8ff5592537f4ef719e83484e546abe33e",
+      "size_in_bytes": 81
+    },
+    {
+      "_path": "Lib/site-packages/typing_extensions-4.11.0.dist-info/direct_url.json",
+      "path_type": "hardlink",
+      "sha256": "d0c3e412024ea9655adcfb527254a14cd83f395f6e09f5f6ad967a1af9ce37dc",
+      "size_in_bytes": 97
+    },
+    {
+      "_path": "Lib/site-packages/typing_extensions.py",
+      "path_type": "hardlink",
+      "sha256": "9af279cc122e2ccb1a5461d98d12ec1a1f28bb08392abdee35b5821d7f3e028d",
+      "size_in_bytes": 122293
+    }
+  ],
+  "paths_version": 1
+}
